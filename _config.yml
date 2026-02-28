@@ -1,5 +1,2 @@
 baseurl: ""
 url: "https://toiptoip.com"
-
-plugins:
-  - jekyll-redirect-from
