@@ -1,8 +1,8 @@
-# ÉTUI Support
+# Dot Puz Support
 
 ## Getting Started
 
-ÉTUI plays .puz format crossword puzzles. To get started, open a .puz file from Safari, Files, or another app, and it will open in ÉTUI.
+Dot Puz plays .puz format crossword puzzles. To get started, open a .puz file from Safari, Files, or another app, and it will open in Dot Puz.
 
 ## Common Questions
 
@@ -17,7 +17,7 @@ After completing a puzzle, you can tap a clue to get a brief explanation of why 
 
 ## Contact
 
-For bug reports, feedback, or questions, email [etui@toiptoip.com](mailto:etui@toiptoip.com)
+For bug reports, feedback, or questions, email [dotpuz@toiptoip.com](mailto:dotpuz@toiptoip.com)
 
 ## Privacy
 
